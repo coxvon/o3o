@@ -24,6 +24,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/build-logic" />
             <option value="$PROJECT_DIR$/domain" />
+            <option value="$PROJECT_DIR$/job" />
             <option value="$PROJECT_DIR$/repositories" />
             <option value="$PROJECT_DIR$/service" />
             <option value="$PROJECT_DIR$/utilities" />

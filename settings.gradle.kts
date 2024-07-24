@@ -17,4 +17,4 @@ plugins {
 }
 
 rootProject.name = "o3o"
-include("app", "service", "repositories", "utilities", "domain")
+include("app", "service", "repositories", "utilities", "domain", "job")

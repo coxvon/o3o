@@ -39,6 +39,10 @@ dependencies {
         implementation("com.ibeetl:sql-core:3.30.9-RELEASE")
         implementation("com.one-zero:one-zero-core:1.0.1")
         implementation("cn.dev33:sa-token-spring-boot3-starter:1.38.0")
+        implementation("com.aizuda:snail-job-client-starter:1.1.0")
+        implementation("com.aizuda:snail-job-client-retry-core:1.1.0")
+        implementation("com.aizuda:snail-job-client-job-core:1.1.0")
+        implementation("cn.hutool:hutool-core:5.8.29")
 
     }
     compileOnly("org.projectlombok:lombok:1.18.34")

@@ -22,7 +22,7 @@ public class TestController {
         test.setName("test");
         test.setMark("test mark");
         test.setTags("[ 1, 2, 3 ]");
-        testService.add(test);
+//        testService.add(test);
         List<Test> tests = testService.test();
         return "hi";
     }
